@@ -1,0 +1,16 @@
+{
+  "name": "Plasmid",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A bright, colourful syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light"
+  ],
+  "repository": "https://github.com/atom/my-second-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
