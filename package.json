@@ -8,7 +8,7 @@
     "theme",
     "light"
   ],
-  "repository": "https://github.com/atom/my-second-syntax",
+  "repository": "https://github.com/j4cobgarby/plasmid-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
